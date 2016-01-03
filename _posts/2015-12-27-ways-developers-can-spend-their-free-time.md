@@ -17,7 +17,7 @@ All main cities are full of many meetups about technology. You should choose a c
 Nothing can replace the pleasure of reading a great book. Books are the most extensive source of information that allows deep in a specific topic.
 
 ##Take a MOOC
-Massive Online Open Courses (MOOC) can remove geographic walls. People who lives in cities where they can't find good quality courses can take courses about programming in platforms like Coursera, Edx and Udacity through Internet. 
+Massive Online Open Courses (MOOC) can remove geographic walls. People who live in cities where they can't find good quality courses can take courses about programming in platforms like Coursera, Edx and Udacity through Internet. 
 
 ##Watch screencasts and tutorials
 Whereas MOOCs are great resources to learn a lot of topics, there is newer or specific subjects which don't have MOOCs available and in that case is a better option go for screencasts and tutorials. Like the famous [Railscasts](http://railscasts.com/) of Ryan Bates.
