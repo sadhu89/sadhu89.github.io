@@ -21,10 +21,10 @@ email: carlos.sadhu@gmail.com
 github: sadhu89 # username
 twitter: CarlosSadhu
 linkedin: crojasn
-stackoverflow: users/4808245/carlos-sadhu-rojas-Ñiquen   #e.g: users/2735833/proton1h1
+stackoverflow: users/4808245/carlos-sadhu-rojas-Ñiquen
 #Comment out if you don't want disqus 
 disqus: carlossadhu
-google_analytics: UA-69391421-1
+google_analytics: UA-76952875-1
 
 
 # needed for travis-ci build
