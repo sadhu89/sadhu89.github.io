@@ -1,8 +1,6 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
+highlighter: rouge
+markdown: kramdown
 permalink: /:title.html
 paginate: 5
 gems: [jekyll-paginate]
@@ -22,7 +20,6 @@ github: sadhu89 # username
 twitter: CarlosSadhu
 linkedin: crojasn
 stackoverflow: users/4808245/carlos-sadhu-rojas-Ñiquen
-#Comment out if you don't want disqus 
 disqus: carlossadhu
 google_analytics: UA-76952875-1
 
